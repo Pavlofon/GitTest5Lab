@@ -9,5 +9,9 @@ public class Main {
         //COMMIT FITCHA
         String str = "Cool fitcha";
         String str2 = "Cool fitcha2";
+        System.out.println("delete int x and sout(x) create 3 commit");
+        System.out.println("new branch commit");
+        System.out.println("delete int x and sout(x) create 3 commit");
+        System.out.println("new branch commit");
     }
 }
