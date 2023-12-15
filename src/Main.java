@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Commit test number 2");
         //COMMIT 3
         System.out.println("delete int x and sout(x) create 3 commit");
-        System.out.println("new branch commit merge");
+        System.out.println("new branch commit");
+        //COMMIT FITCHA
+        String str = "Cool fitcha";
     }
 }
