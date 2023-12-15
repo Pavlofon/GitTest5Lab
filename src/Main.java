@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Gindemit Pavel 5 lab GIT");
         //COMMIT 2
         System.out.println("Commit test number 2");
-        int x = 5;
-        System.out.println(x);
+        //COMMIT 3
+        System.out.println("delete int x and sout(x) create 3 commit");
     }
 }
