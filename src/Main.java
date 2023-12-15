@@ -8,5 +8,6 @@ public class Main {
         System.out.println("new branch commit");
         //COMMIT FITCHA
         String str = "Cool fitcha";
+        String str2 = "Cool fitcha2";
     }
 }
